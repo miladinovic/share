@@ -4,10 +4,6 @@ This repository documents my work on adapting the inexpensive **MVSilicon BP1048
 
 The goal is to obtain high-quality microphone processing (EQ, compression, noise suppression, exciter, etc.) without requiring a Windows PC running software such as Voice Shaper.
 
-> **Disclaimer**
->
-> This is an unofficial reverse-engineering project. None of the documentation is mine. Credit belongs to the original manufacturers and authors. This repository simply collects publicly available information together with my own findings and experiments.
-
 ---
 
 # Why?
